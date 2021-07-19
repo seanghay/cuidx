@@ -1,5 +1,5 @@
 {
-  "name": "cuid-cli",
+  "name": "cuidx",
   "version": "1.0.0",
   "description": "A command for cuid",
   "main": "src/main.js",
