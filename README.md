@@ -2,6 +2,7 @@
 
 Execute `cuid()` from Terminal
 
+<img src="https://raw.githubusercontent.com/seanghay/cuidx/main/sample.svg">
 
 ### Installation
 
